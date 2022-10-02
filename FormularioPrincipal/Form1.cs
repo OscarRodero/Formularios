@@ -167,5 +167,27 @@ namespace FormularioPrincipal
             }
         }
 
+        private void btnTemporizador_Click(object sender, EventArgs e)
+        {
+            if (this.MdiChildren.Length > 0)
+            {
+                DialogResult rs = MessageBox.Show("¿Desea cerrar el formulario?", "¡Atención!", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+                if (rs == DialogResult.OK)
+                {
+                    this.MdiChildren[0].Close();
+                    frmTemp n = new frmTemp();
+                    n.MdiParent = this;
+                    n.Dock = DockStyle.Fill;
+                    n.Show();
+                }
+            }
+            else
+            {
+                frmTemp n = new frmTemp();
+                n.MdiParent = this;
+                n.Dock = DockStyle.Fill;
+                n.Show();
+            }
+        }
     }
 }

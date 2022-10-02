@@ -87,6 +87,7 @@
             this.btnTemporizador.TabIndex = 7;
             this.btnTemporizador.Text = "08. Temporizador";
             this.btnTemporizador.UseVisualStyleBackColor = true;
+            this.btnTemporizador.Click += new System.EventHandler(this.btnTemporizador_Click);
             // 
             // btnCalendarios
             // 
