@@ -19,6 +19,9 @@
     <Compile Update="frmListas.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="frmTemp.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="frmTextBox.cs">
       <SubType>Form</SubType>
     </Compile>
