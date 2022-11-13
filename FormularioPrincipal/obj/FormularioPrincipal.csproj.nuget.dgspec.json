@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< Updated upstream
     "C:\\Users\\dam201\\source\\repos\\FormularioPrincipal\\FormularioPrincipal\\FormularioPrincipal.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\dam201\\source\\repos\\FormularioPrincipal\\FormularioPrincipal\\FormularioPrincipal.csproj",
         "packagesPath": "C:\\Users\\dam201\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\dam201\\source\\repos\\FormularioPrincipal\\FormularioPrincipal\\obj\\",
+=======
+    "D:\\insti\\2DAM\\DesarrolloInterfaces\\Formularios\\FormularioPrincipal\\FormularioPrincipal.csproj": {}
+  },
+  "projects": {
+    "D:\\insti\\2DAM\\DesarrolloInterfaces\\Formularios\\FormularioPrincipal\\FormularioPrincipal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\insti\\2DAM\\DesarrolloInterfaces\\Formularios\\FormularioPrincipal\\FormularioPrincipal.csproj",
+        "projectName": "FormularioPrincipal",
+        "projectPath": "D:\\insti\\2DAM\\DesarrolloInterfaces\\Formularios\\FormularioPrincipal\\FormularioPrincipal.csproj",
+        "packagesPath": "C:\\Users\\Oscar\\.nuget\\packages\\",
+        "outputPath": "D:\\insti\\2DAM\\DesarrolloInterfaces\\Formularios\\FormularioPrincipal\\obj\\",
+>>>>>>> Stashed changes
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

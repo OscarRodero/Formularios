@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "1AgYqFdZlZiUDBpBbz+RCdwOVQKmnkaNi077oRzbpoaHRHYF+6JfaHCDinQrmduJHPGQfMDRgqd+DN6VBF4JDA==",
   "success": true,
   "projectFilePath": "C:\\Users\\dam201\\source\\repos\\FormularioPrincipal\\FormularioPrincipal\\FormularioPrincipal.csproj",
+=======
+  "dgSpecHash": "CjEkvZgck4I9oyQYfEKwcDSFG3o4pOY2KSze2FkXoU2gjygAb3gAYU31UgZKW1Y3qDziu19mIQMDkBC5YqoEqw==",
+  "success": true,
+  "projectFilePath": "D:\\insti\\2DAM\\DesarrolloInterfaces\\Formularios\\FormularioPrincipal\\FormularioPrincipal.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [],
   "logs": []
 }
